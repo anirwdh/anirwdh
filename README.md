@@ -1,5 +1,3 @@
-                                                Hi👋, I’m Aniruddh Singh
-                                       A passionate FullStack Developer from India
 - 🌱 I’m currently learning Nextjs and Devops
 - 💬 Ask me about MERN , FLUTTER
 - 💞️ I’m looking to collaborate on MERN projects
