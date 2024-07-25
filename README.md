@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Aniruddh Singh</h1> 
-<h3 align="center">I’m a passionate data engineer||Web Developer currently deepening my knowledge and skills through hands-on projects and continuous learning.</h3>
+<h3 align="center">I’m a passionate data engineer || Web Developer currently deepening my knowledge and skills through hands-on projects and continuous learning.</h3>
 
 ##  About me
 <div align="left">
