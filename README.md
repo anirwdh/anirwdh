@@ -24,14 +24,18 @@
         <li><strong>Data Integration and Transformation</strong>: Utilizing dbt and Talend to transform and integrate data from various sources.</li>
         <li><strong>Cloud Platforms</strong>: Leveraging the capabilities of AWS, Azure, and Google Cloud for scalable data solutions.</li>
         <li><strong>Data Visualization and Dashboards</strong>: Creating impactful visualizations and interactive dashboards using Power BI.</li>
-        <li><strong>Full Stack Web Development</strong>: Building responsive and dynamic web applications using HTML, CSS, and JavaScript, React, </li>
+        <li><strong>Full Stack Web Development</strong>: Building responsive and dynamic web applications using HTML, CSS, and JavaScript, React,nextJS ,devops </li>
     </ul>
    
-👨‍💻Work Experience: Currently working at Gatividhi as a Data Analyst Intern. <br/>
+👨‍💻Work Experience: Currently working at Gatividhi as a Full Stack Developer Intern. <br/>
 Previously experienced at Accenture Data Analytics and Visualization Job Simulation <br/>
+Also worked at TaTa Data Visualisation: Empowering Business with Effective Insights<br/>
+Walmart Global Tech : Advanced Software Engineering Job Simulation<br/>
 
 
 👩🏻‍🎓Achievements:Accenture Data Analytics and Visualization Job Simulation <br/>
+TaTa Data Visualisation: Empowering Business with Effective Insights<br/>
+Walmart Global Tech : Advanced Software Engineering Job Simulation<br/>
 
 
 ✨Hobbies: Chess and art (painting). <br/>
@@ -67,8 +71,8 @@ Previously experienced at Accenture Data Analytics and Visualization Job Simulat
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/aashi gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashi gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/aashiii2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashiii2411" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aashigupta2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aashigupta2411" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anirwdh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashi gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/anirwdh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashiii2411" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/aniruddhsingh931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aashigupta2411" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aashiii_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashiii_gupta" height="30" width="40" /></a>
 </p>
