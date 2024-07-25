@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Aniruddh Singh</h1> 
-<h3 align="center">I’m a passionate data engineer currently deepening my knowledge and skills through hands-on projects and continuous learning.</h3>
+<h3 align="center">I’m a passionate data engineer||Web Developer currently deepening my knowledge and skills through hands-on projects and continuous learning.</h3>
 
 ##  About me
 <div align="left">
@@ -12,10 +12,10 @@
 
 
 
-<p>🎓 <strong>Education:</strong> I'm currently a dedicated Computer Science student at <em>IMS Engineering College</em> I'm committed to leveraging my academic knowledge in real-world applications.</p><br/>
+<p>🎓 <strong>Education:</strong> I'm currently a dedicated Computer Science student at <em>IMS Engineering College.</em> I'm committed to leveraging my academic knowledge in real-world applications.</p><br/>
 
 <h3>🤓I’m currently learning</h3>
-    <p>I’m currently diving deep into the world of Data Engineering and Frontend Web Development. My journey involves:</p>
+    <p>I’m currently diving deep into the world of Data Engineering and Web Development. My journey involves:</p>
     <ul>
         <li><strong>Mastering Big Data Technologies</strong>: Exploring the power of Hadoop and Spark to handle massive datasets efficiently.</li>
         <li><strong>Data Warehousing Expertise</strong>: Gaining hands-on experience with Redshift and Snowflake to optimize data storage and retrieval.</li>
